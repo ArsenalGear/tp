@@ -65,7 +65,7 @@
       class="body_style_wide body_filled article_style_stretch top_panel_style_dark top_panel_opacity_solid menu_right"
       @else
           class="body_style_boxed body_filled article_style_stretch top_panel_style_dark top_panel_opacity_solid menu_right sidebar_show sidebar_right"
-          style="background: url(./images/grey_bg.jpg) 0 0 repeat fixed;background-color: #bfbfbf;"
+
       @endif
 >
 
@@ -75,7 +75,12 @@
 
 
         <div class="top_panel_fixed_wrap"></div>
-
+        <div class="mini-header">
+            <span class="dib mr1">Телефон:</span>
+            <a class="dib mr4" href="tel:+1234567890">1234567890</a>
+            <span class="dib mr1">Почта:</span>
+            <a href="mailto:name@email.com">support@mail.ru</a>
+        </div>
         <header class="top_panel_wrap bg_tint_dark">
 
 
@@ -83,8 +88,8 @@
                 <div class="content_wrap clearfix">
                     <div class="logo">
                         <a href=".">
-                            <img src="images/logo2.png" class="logo_main" alt="">
-                            <img src="images/logo2.png" class="logo_fixed" alt="">
+                            <img src="images/LOGO4.png" class="logo_main" alt="">
+                            <img src="images/LOGO4.png" class="logo_fixed" alt="">
                         </a>
                     </div>
                     <div class="search_wrap search_style_regular search_ajax" title="Open/close search form">
@@ -121,7 +126,7 @@
 {{--                                </ul>--}}
                             </li>
                             <li class="menu-item">
-                                <a href="/services">Услуги</a>
+                                <a href="#services">Услуги</a>
                             </li>
 {{--                            <li class="menu-item menu-item-has-children">--}}
 {{--                                <a href="#">Features</a>--}}
@@ -163,13 +168,13 @@
 {{--                                </ul>--}}
 {{--                            </li>--}}
                             <li class="menu-item">
-                                <a href="/news">Новости</a>
+                                <a href="#news">Новости</a>
                             </li>
 {{--                            <li class="menu-item">--}}
 {{--                                <a href="shop.html">Store</a>--}}
 {{--                            </li>--}}
                             <li class="menu-item">
-                                <a href="/contacts">Контакты</a>
+                                <a href="#contacts">Контакты</a>
                             </li>
                         </ul>
                     </nav>
@@ -188,7 +193,7 @@
 
         <footer class="contacts_wrap bg_tint_dark contacts_style_dark">
             <div class="content_wrap">
-                <h2 class="footer_contact_title"> Contact Us </h2>
+                <h2 class="footer_contact_title">Связаться с нами</h2>
 
                 <div class="footer_contact_title_line"></div>
                 <div class="contacts_address">
@@ -201,56 +206,56 @@
                         San Francisco, CA 94102, US
                     </address>
                 </div>
-                <div class="sc_socials sc_socials_size_big">
-                    <div class="sc_socials_item">
-                        <a href="#" target="_blank" class="social_icons social_facebook-circled">
-                            <span class="icon-facebook-circled up"></span>
-                            <span class="icon-facebook-circled"></span>
-                        </a>
-                    </div>
-                    <div class="sc_socials_item">
-                        <a href="#" target="_blank" class="social_icons social_pinterest-circled">
-                            <span class="icon-pinterest-circled up"></span>
-                            <span class="icon-pinterest-circled"></span>
-                        </a>
-                    </div>
-                    <div class="sc_socials_item">
-                        <a href="#" target="_blank" class="social_icons social_twitter-circled">
-                            <span class="icon-twitter-circled up"></span>
-                            <span class="icon-twitter-circled"></span>
-                        </a>
-                    </div>
-                    <div class="sc_socials_item">
-                        <a href="#" target="_blank" class="social_icons social_gplus-circled">
-                            <span class="icon-gplus-circled up"></span>
-                            <span class="icon-gplus-circled"></span>
-                        </a>
-                    </div>
-                    <div class="sc_socials_item">
-                        <a href="#" target="_blank" class="social_icons social_flickr-circled">
-                            <span class="icon-flickr-circled up"></span>
-                            <span class="icon-flickr-circled"></span>
-                        </a>
-                    </div>
-                </div>
+{{--                <div class="sc_socials sc_socials_size_big">--}}
+{{--                    <div class="sc_socials_item">--}}
+{{--                        <a href="#" target="_blank" class="social_icons social_facebook-circled">--}}
+{{--                            <span class="icon-facebook-circled up"></span>--}}
+{{--                            <span class="icon-facebook-circled"></span>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                    <div class="sc_socials_item">--}}
+{{--                        <a href="#" target="_blank" class="social_icons social_pinterest-circled">--}}
+{{--                            <span class="icon-pinterest-circled up"></span>--}}
+{{--                            <span class="icon-pinterest-circled"></span>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                    <div class="sc_socials_item">--}}
+{{--                        <a href="#" target="_blank" class="social_icons social_twitter-circled">--}}
+{{--                            <span class="icon-twitter-circled up"></span>--}}
+{{--                            <span class="icon-twitter-circled"></span>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                    <div class="sc_socials_item">--}}
+{{--                        <a href="#" target="_blank" class="social_icons social_gplus-circled">--}}
+{{--                            <span class="icon-gplus-circled up"></span>--}}
+{{--                            <span class="icon-gplus-circled"></span>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                    <div class="sc_socials_item">--}}
+{{--                        <a href="#" target="_blank" class="social_icons social_flickr-circled">--}}
+{{--                            <span class="icon-flickr-circled up"></span>--}}
+{{--                            <span class="icon-flickr-circled"></span>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="sc_contact_form sc_contact_form_standard aligncenter" style="width:57%;">
                     <form id="sc_contact_form_251067573" data-formtype="contact" method="post" action="#">
                         <div class="sc_contact_form_info">
                             <div class="sc_contact_form_item sc_contact_form_field label_over">
                                 <label class="required" for="sc_contact_form_username">Name</label>
-                                <input id="sc_contact_form_username" type="text" name="username" placeholder="Name *">
+                                <input id="sc_contact_form_username" type="text" name="username" placeholder="Имя">
                             </div>
                             <div class="sc_contact_form_item sc_contact_form_field label_over">
                                 <label class="required" for="sc_contact_form_email">E-mail</label>
-                                <input id="sc_contact_form_email" type="text" name="email" placeholder="E-mail *">
+                                <input id="sc_contact_form_email" type="text" name="email" placeholder="Ваша почта">
                             </div>
                         </div>
                         <div class="sc_contact_form_item sc_contact_form_message label_over">
                             <label class="required" for="sc_contact_form_message">Message</label>
-                            <textarea id="sc_contact_form_message" name="message" placeholder="Message"></textarea>
+                            <textarea id="sc_contact_form_message" name="message" placeholder="Введите Ваше сообщение"></textarea>
                         </div>
                         <div class="sc_contact_form_item sc_contact_form_button">
-                            <button title="Submit">Submit</button>
+                            <button title="Отправить">Отправить</button>
                         </div>
                         <div class="result sc_infobox"></div>
                     </form>
@@ -263,11 +268,8 @@
         <div class="copyright_wrap">
             <div class="content_wrap">
                 <p>
-                    <a href="http://themeforest.net/user/AncoraThemes">AncoraThemes</a>
-                    © 2015 All rights reserved.
-                    <a href="#">Terms of use</a>
-                    and
-                    <a href="#">Privacy Policy</a>
+                    © 2020 Все права защищены
+
                 </p>
             </div>
         </div>
