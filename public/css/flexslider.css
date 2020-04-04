@@ -7,7 +7,7 @@
  * http://www.gnu.org/licenses/gpl-2.0.html
  *
  * Contributing author: Tyler Smith (@mbmufffin)
- * 
+ *
  */
 /* ====================================================================================================================
  * FONT-FACE
@@ -92,7 +92,9 @@ html[xmlns] .flexslider .slides {
   zoom: 1;
 }
 .flexslider .slides img {
-  height: auto;
+    height: 600px;
+    object-fit: cover;
+    object-position: top;
 }
 .flex-viewport {
   max-height: 2000px;
@@ -262,6 +264,43 @@ html[xmlns] .flexslider .slides {
 /* ====================================================================================================================
  * RESPONSIVE
  * ====================================================================================================================*/
+
+.db {
+    display: block;
+}
+.dib {
+    display: inline-block;
+}
+
+.mr1 {
+    margin-right: 1rem;
+}
+.mr2 {
+    margin-right: 2rem;
+}
+.mr3 {
+    margin-right: 3rem;
+}
+.mr4 {
+    margin-right: 4rem;
+}
+.mr5 {
+    margin-right: 5rem;
+}
+
+.mini-header {
+    background-color: #000;
+    padding: 2rem;
+}
+
+.mini-header * {
+    color: #fff;
+}
+
+.mini-header a:hover {
+    color: #2f58d5;
+}
+
 @media screen and (max-width: 860px) {
   .flex-direction-nav .flex-prev {
     opacity: 1;
