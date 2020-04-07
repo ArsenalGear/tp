@@ -7733,7 +7733,7 @@ a, button {
     transition: all ease .3s;
 }
 a {
-    color: #f74f08;
+    color: #2f58d5;
 }
 
 .sc_title.bottom_border {
@@ -8299,15 +8299,15 @@ input[type="checkbox"]:checked + label:before {
 /*}*/
 
 .menu_user_wrap .menu_user_nav > li ul li a:hover {
-    color:#f74f08;
+    color:#2f58d5;
 }
 .menu_main_wrap .menu_main_nav > li ul li a:hover,
 .menu_main_wrap .menu_main_nav > li ul li.current-menu-item > a,
 .menu_main_wrap .menu_main_nav > li ul li.current-menu-ancestor > a {
-    color:#f74f08;
+    color:#2f58d5;
 }
 .menu_main_wrap .menu_main_responsive > li ul li a:hover, .menu_main_wrap .menu_main_responsive > li ul li.current-menu-item > a, .menu_main_wrap .menu_main_responsive > li ul li.current-menu-ancestor > a {
-    color: #f74f08;
+    color: #2f58d5;
 }
 .menu_user_wrap .menu_user_nav li a:before,
 .menu_main_wrap .menu_main_nav li a:before {
@@ -8425,7 +8425,7 @@ input[type="checkbox"]:checked + label:before {
 
 
 .menu_main_nav > li >a:hover {
-    color: #f74f08;
+    color: #2f58d5;
     line-height: 8.5em;
 }
 
@@ -9331,7 +9331,7 @@ footer .content_wrap h2 {
 
 /* Scroll to top */
 .scroll_to_top {
-    background-color: #f74f08;
+    background-color: #2f58d5;
     border:none;
     -webkit-box-shadow: -4px 3px 0px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: -4px 3px 0px 0px rgba(0, 0, 0, 0.2);
