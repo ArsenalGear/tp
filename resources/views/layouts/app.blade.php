@@ -77,9 +77,9 @@
         <div class="top_panel_fixed_wrap"></div>
         <div class="mini-header">
             <span class="dib mr1">Телефон:</span>
-            <a class="dib mr4" href="tel:+1234567890">1234567890</a>
+            <a class="dib mr4" href="tel:+73452494835">+7 (345) 249-48-35</a>
             <span class="dib mr1">Почта:</span>
-            <a href="mailto:name@email.com">support@mail.ru</a>
+            <a href="mailto:Term@tftot.ru">Term@tftot.ru</a>
         </div>
         <header class="top_panel_wrap bg_tint_dark">
 
@@ -109,7 +109,7 @@
                     <nav role="navigation" class="menu_main_nav_area">
                         <ul id="menu_main" class="menu_main_nav">
                             <li class="menu-item current-menu-item1111 current-menu-ancestor111 current-menu-parent111 menu-item-has-children111">
-                                <a href="/">Домой</a>
+                                <a href="/">О компании</a>
 {{--                                <ul class="sub-menu">--}}
 {{--                                    <li class="menu-item">--}}
 {{--                                        <a href="index.html">Homepage</a>--}}
@@ -125,21 +125,21 @@
 {{--                                    </li>--}}
 {{--                                </ul>--}}
                             </li>
-                            <li class="menu-item">
-                                <a href="#services">Услуги</a>
-                            </li>
-{{--                            <li class="menu-item menu-item-has-children">--}}
-{{--                                <a href="#">Features</a>--}}
-{{--                                <ul class="sub-menu">--}}
-{{--                                    <li class="menu-item">--}}
-{{--                                        <a href="shortcodes.html">Shortcodes</a>--}}
-{{--                                    </li>--}}
-{{--                                    <li class="menu-item">--}}
-{{--                                        <a href="typography.html">Typography</a>--}}
-{{--                                    </li>--}}
-{{--                                    <li class="menu-item">--}}
-{{--                                        <a href="infographic.html">Infographic</a>--}}
-{{--                                    </li>--}}
+                            <li class="menu-item menu-item-has-children">
+                                <a href="#services">Каталог услуг</a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item">
+                                        <a href="shortcodes.html">Инженерные изыскания</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="typography.html">Проектные работы</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="infographic.html">Инжинирингованные услуги</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="infographic.html">Авторский надзор</a>
+                                    </li>
 {{--                                    <li class="menu-item menu-item-has-children">--}}
 {{--                                        <a href="#">Pages</a>--}}
 {{--                                        <ul class="sub-menu">--}}
@@ -165,11 +165,17 @@
 {{--                                            </li>--}}
 {{--                                        </ul>--}}
 {{--                                    </li>--}}
-{{--                                </ul>--}}
-{{--                            </li>--}}
-                            <li class="menu-item">
-                                <a href="#news">Новости</a>
+                                </ul>
                             </li>
+                            <li class="menu-item">
+                                <a href="#news">Наши проекты</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#news">Отзывы</a>
+                            </li>
+{{--                            <li class="menu-item">--}}
+{{--                                <a href="#news">Новости</a>--}}
+{{--                            </li>--}}
 {{--                            <li class="menu-item">--}}
 {{--                                <a href="shop.html">Store</a>--}}
 {{--                            </li>--}}
@@ -198,8 +204,7 @@
                 <div class="footer_contact_title_line"></div>
                 <div class="contacts_address">
                     <address class="address_right">
-                        Phone: 1.800.123.4567<br>
-                        Fax: 1.800.123.4566
+                        Телефон: +7 (345) 249-48-35
                     </address>
                     <address class="address_left">
                         1234, Some Str.<br>
