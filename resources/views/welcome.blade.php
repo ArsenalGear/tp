@@ -112,6 +112,41 @@
 												“Стандарт премиум”</p>
 										</div>
 									</div>
+									<br>
+									<br>
+									<div class="sertificat-wrapper">
+										<div class="sertificat-block">
+											<img src="images/vipiska/1.jpg" alt="">
+											<p style="padding: 0 16px;">Выписка из реестра членов саморегулируемой организации № 7115/2020</p>
+										</div>
+										<div class="sertificat-block">
+											<img src="images/vipiska/2.jpg" alt="">
+											<p style="padding: 0 16px;">Выписка из реестра членов саморегулируемой организации № 7115/2020</p>
+										</div>
+										<div class="sertificat-block">
+											<img src="images/vipiska/3.jpg" alt="">
+											<p style="padding: 0 16px;">Выписка из реестра членов саморегулируемой организации № 7115/2020</p>
+										</div>
+									</div>
+									<br>
+									<br>
+									<div class="sertificat-wrapper">
+										<div class="sertificat-block">
+											<img src="images/vipiska/4.jpg" alt="">
+											<p style="padding: 0 16px;">Выписка из реестра членов саморегулируемой организации № 2020/580</p>
+										</div>
+
+										<div class="sertificat-block">
+											<img src="images/vipiska/5.jpg" alt="">
+											<p style="padding: 0 16px;">Выписка из реестра членов саморегулируемой организации № 2020/580</p>
+										</div>
+
+										<div class="sertificat-block">
+											<img src="images/vipiska/6.jpg" alt="">
+											<p style="padding: 0 16px;">Выписка из реестра членов саморегулируемой организации № 2020/580</p>
+										</div>
+
+									</div>
 								</div>
 							</div>
 						</div>
@@ -174,17 +209,11 @@
 								<div class="wpb_wrapper">
 									<div class="director-wrapper">
 										<div class="director-card">
-											<div class="director-img">
-												<img src="images/director.png" alt="">
-											</div>
 											<br>
 											<h3>Генеральный директор:</h3>
 											<p class="director-name">Куропаткин Борис Борисович</p>
 										</div>
 										<div class="director-card">
-											<div class="director-img">
-												<img src="images/director.png" alt="">
-											</div>
 											<br>
 											<h3>Директор:</h3>
 											<p class="director-name">Барило Алексей Иванович</p>
@@ -238,7 +267,7 @@
 												     style="margin-top:2em !important;">
 													<div class="wpb_text_column wpb_content_element">
 														<div class="wpb_wrapper">
-															<p>Телефон: +7 (3452)249-48-35
+															<p>Телефон: +7 (3452) 49-48-35
 																</br>
 																Факс: (3452) 49-48-65
 															</p>

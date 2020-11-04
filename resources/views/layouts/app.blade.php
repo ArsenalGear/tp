@@ -78,7 +78,7 @@
         <div class="mini-header">
             <div>
             <span class="dib mr1">Телефон:</span>
-            <a class="dib mr4" href="tel:+73452494835">+7 (3452) 249-48-35</a>
+            <a class="dib mr4" href="tel:+73452494835">+7 (3452) 49-48-35</a>
             <span class="dib mr1">Почта:</span>
             <a href="mailto:Term@tftot.ru">Term@tftot.ru</a>
             </div>
@@ -168,7 +168,7 @@
                                 </ul>
                             </li>
                             <li class="menu-item">
-                                <a href="#news">Наши проекты</a>
+                                <a href="/projects">Наши проекты</a>
                             </li>
                             <li class="menu-item">
                                 <a href="#news">Отзывы</a>

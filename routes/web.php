@@ -26,6 +26,10 @@ Route::get('/services', function () {
 Route::get('/news', function () {
 	return view('news');
 })->name('news');
+	
+	Route::get('/projects', function () {
+		return view('projects');
+	})->name('projects');
 
 Route::get('/contacts', function () {
 	return view('contacts');
