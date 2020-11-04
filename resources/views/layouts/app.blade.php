@@ -126,7 +126,7 @@
 {{--                                </ul>--}}
                             </li>
                             <li class="menu-item menu-item-has-children">
-                                <a href="#services">Каталог услуг</a>
+                                <a href="/services">Каталог услуг</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
                                         <a href="shortcodes.html">Инженерные изыскания</a>
@@ -265,6 +265,7 @@
 <script type='text/javascript' src='js/vendor/idangerous.swiper-2.7.min.js'></script>
 <script type='text/javascript' src='js/vendor/idangerous.swiper.scrollbar-2.4.min.js'></script>
 <script type='text/javascript' src='js/vendor/isotope.pkgd.min.js'></script>
+<script type='text/javascript' src='js/vendor/accordion.min.js'></script>
 
 <script type='text/javascript' src='js/custom/core.utils.min.js'></script>
 <script type='text/javascript' src='js/custom/core.init.js'></script>
