@@ -10,9 +10,10 @@
 					<img src="images/slider/QZVBdin_HSE.jpg" alt=""/>
 					<div class="slide_description_wrapper content_wrap">
 						<div class="slide_description">
-							<h1 class="slide_title">Инжиниринговые услуги</h1>
-							<h2 class="slide_subtitle">Предприятие имеет опыт в разработке концепции наземной
-								инфраструктуры и техническо-экономического обоснования инвестиций</h2>
+							<h1 class="slide_title">Инжиниринговые и проектые услуги</h1>
+							<h2 class="slide_subtitle">Комплексное проектирование и инженерные изыскания объекстов добычи и транспорта
+							нефти и газа, в том числе газо-нефтепродуктопроводов, объектов обустройства месторождений, компрессорных и
+								нефтеперекачивающих станций</h2>
 						</div>
 					</div>
 				</li>
@@ -20,9 +21,10 @@
 					<img src="images/slider/pM1nbYM_p-4.jpg" alt=""/>
 					<div class="slide_description_wrapper content_wrap">
 						<div class="slide_description">
-							<h1 class="slide_title">Проектные работы</h1>
-							<h2 class="slide_subtitle">Предприятие проводит рвзработку проектной и рабочей документации,
-								имеет опыт работы с ПГС, и обслуживание нефте-газовых месторождений</h2>
+							<h1 class="slide_title">Инжиниринговые и проектые услуг</h1>
+							<h2 class="slide_subtitle">Предприятие предоставляет полный спектр услуг по инженерным изысканиям, проектированию и
+							авторскому надзору за объектами строительства. Компания специализируется на выполнении как отдельных видов работ,
+							так и проектов в целом</h2>
 						</div>
 					</div>
 				</li>
@@ -30,10 +32,9 @@
 					<img src="images/slider/jfqRRbDZ-PE.jpg" alt=""/>
 					<div class="slide_description_wrapper content_wrap">
 						<div class="slide_description">
-							<h1 class="slide_title">Инжeнерные изыскания</h1>
-							<h2 class="slide_subtitle">Инженерных изысканий включающих в себя: инженерно - экологические
-								изыскания, инженерно - геологические изыскания, инженерно - гидрометеорологические
-								изыскания и другое</h2>
+							<h1 class="slide_title">Инжиниринговые и проектые услуг</h1>
+							<h2 class="slide_subtitle">Деятельность основана на комплексном и профессиональном подходе в решении задач различного
+							уровня сложности в необходимые сроки с использованием эффективных методов при практической реализации проектов</h2>
 						</div>
 					</div>
 				</li>
@@ -169,7 +170,6 @@
 										<div class="clients-img-block">
 											<img style="margin-bottom: 10px;" src="images/clients/1.png" alt="">
 										</div>
-										\
 										<div class="clients-img-block">
 											<img src="images/clients/3.png" alt="">
 										</div>

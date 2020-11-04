@@ -109,7 +109,7 @@
                     <nav role="navigation" class="menu_main_nav_area">
                         <ul id="menu_main" class="menu_main_nav">
                             <li class="menu-item current-menu-item1111 current-menu-ancestor111 current-menu-parent111 menu-item-has-children111">
-                                <a href="/">О компании</a>
+                                <a href="/">Главная</a>
 {{--                                <ul class="sub-menu">--}}
 {{--                                    <li class="menu-item">--}}
 {{--                                        <a href="index.html">Homepage</a>--}}
@@ -129,16 +129,19 @@
                                 <a href="/services">Каталог услуг</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
-                                        <a href="shortcodes.html">Инженерные изыскания</a>
+                                        <a href="/services">Инженерные изыскания</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="typography.html">Проектные работы</a>
+                                        <a href="/services">Проектные работы и инжиниринговые услуги</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="infographic.html">Инжинирингованные услуги</a>
+                                        <a href="/services">Авторский надзор и сопровождение проекта</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="infographic.html">Авторский надзор</a>
+                                        <a href="/services">Постановка на кадастровый учёт</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="/services">Программное обеспечение проектных работ</a>
                                     </li>
 {{--                                    <li class="menu-item menu-item-has-children">--}}
 {{--                                        <a href="#">Pages</a>--}}
@@ -170,18 +173,18 @@
                             <li class="menu-item">
                                 <a href="/projects">Наши проекты</a>
                             </li>
-                            <li class="menu-item">
-                                <a href="#news">Отзывы</a>
-                            </li>
+{{--                            <li class="menu-item">--}}
+{{--                                <a href="#news">Отзывы</a>--}}
+{{--                            </li>--}}
 {{--                            <li class="menu-item">--}}
 {{--                                <a href="#news">Новости</a>--}}
 {{--                            </li>--}}
 {{--                            <li class="menu-item">--}}
 {{--                                <a href="shop.html">Store</a>--}}
 {{--                            </li>--}}
-                            <li class="menu-item">
-                                <a href="#contacts">Контакты</a>
-                            </li>
+{{--                            <li class="menu-item">--}}
+{{--                                <a href="#contacts">Контакты</a>--}}
+{{--                            </li>--}}
                         </ul>
                     </nav>
                 </div>
