@@ -1030,7 +1030,8 @@ label.required:after {
 .menu_main_wrap .menu_main_nav li li > a {
 	position:relative;
 	display:block;
-	padding: 0.6428em 1.2em 0.6428em 2.1428em;
+	padding: 0.6428em 1em 0.6428em 1em;
+	font-size: 15px;
 }
 
 .menu_user_wrap .menu_user_nav li li.menu-item-has-children > a:after,
