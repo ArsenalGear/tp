@@ -76,20 +76,20 @@
 
         <div class="top_panel_fixed_wrap"></div>
         <div class="mini-header">
+            <div>
             <span class="dib mr1">Телефон:</span>
-            <a class="dib mr4" href="tel:+73452494835">+7 (345) 249-48-35</a>
+            <a class="dib mr4" href="tel:+73452494835">+7 (3452) 249-48-35</a>
             <span class="dib mr1">Почта:</span>
             <a href="mailto:Term@tftot.ru">Term@tftot.ru</a>
+            </div>
         </div>
         <header class="top_panel_wrap bg_tint_dark">
-
-
             <div class="menu_main_wrap logo_left">
                 <div class="content_wrap clearfix">
                     <div class="logo">
                         <a href=".">
                             <img src="images/LOGO4.png" class="logo_main" alt="">
-                            <img src="images/LOGO4.png" class="logo_fixed" alt="">
+{{--                            <img src="images/LOGO4.png" class="logo_fixed" alt="">--}}
                         </a>
                     </div>
                     <div class="search_wrap search_style_regular search_ajax" title="Open/close search form">
@@ -202,53 +202,17 @@
                 <h2 class="footer_contact_title">Связаться с нами</h2>
 
                 <div class="footer_contact_title_line"></div>
-                <div class="contacts_address">
-                    <address class="address_right">
-                        Телефон: +7 (345) 249-48-35
-                    </address>
-                    <address class="address_left">
-                        1234, Some Str.<br>
-                        San Francisco, CA 94102, US
-                    </address>
-                </div>
-{{--                <div class="sc_socials sc_socials_size_big">--}}
-{{--                    <div class="sc_socials_item">--}}
-{{--                        <a href="#" target="_blank" class="social_icons social_facebook-circled">--}}
-{{--                            <span class="icon-facebook-circled up"></span>--}}
-{{--                            <span class="icon-facebook-circled"></span>--}}
-{{--                        </a>--}}
-{{--                    </div>--}}
-{{--                    <div class="sc_socials_item">--}}
-{{--                        <a href="#" target="_blank" class="social_icons social_pinterest-circled">--}}
-{{--                            <span class="icon-pinterest-circled up"></span>--}}
-{{--                            <span class="icon-pinterest-circled"></span>--}}
-{{--                        </a>--}}
-{{--                    </div>--}}
-{{--                    <div class="sc_socials_item">--}}
-{{--                        <a href="#" target="_blank" class="social_icons social_twitter-circled">--}}
-{{--                            <span class="icon-twitter-circled up"></span>--}}
-{{--                            <span class="icon-twitter-circled"></span>--}}
-{{--                        </a>--}}
-{{--                    </div>--}}
-{{--                    <div class="sc_socials_item">--}}
-{{--                        <a href="#" target="_blank" class="social_icons social_gplus-circled">--}}
-{{--                            <span class="icon-gplus-circled up"></span>--}}
-{{--                            <span class="icon-gplus-circled"></span>--}}
-{{--                        </a>--}}
-{{--                    </div>--}}
-{{--                    <div class="sc_socials_item">--}}
-{{--                        <a href="#" target="_blank" class="social_icons social_flickr-circled">--}}
-{{--                            <span class="icon-flickr-circled up"></span>--}}
-{{--                            <span class="icon-flickr-circled"></span>--}}
-{{--                        </a>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
+
                 <div class="sc_contact_form sc_contact_form_standard aligncenter" style="width:57%;">
                     <form id="sc_contact_form_251067573" data-formtype="contact" method="post" action="#">
-                        <div class="sc_contact_form_info">
+                        <div style="width: 100%; margin-bottom: 29px;" class="sc_contact_form_item sc_contact_form_field label_over">
+                            <label class="required" for="sc_contact_form_username">Name</label>
+                            <input id="sc_contact_form_username" type="text" name="username" placeholder="Имя">
+                        </div>
+                        <div style="width: 100%" class="sc_contact_form_info">
                             <div class="sc_contact_form_item sc_contact_form_field label_over">
                                 <label class="required" for="sc_contact_form_username">Name</label>
-                                <input id="sc_contact_form_username" type="text" name="username" placeholder="Имя">
+                                <input id="sc_contact_form_phone" type="text" name="phone" placeholder="Ваш телефон">
                             </div>
                             <div class="sc_contact_form_item sc_contact_form_field label_over">
                                 <label class="required" for="sc_contact_form_email">E-mail</label>
@@ -257,7 +221,7 @@
                         </div>
                         <div class="sc_contact_form_item sc_contact_form_message label_over">
                             <label class="required" for="sc_contact_form_message">Message</label>
-                            <textarea id="sc_contact_form_message" name="message" placeholder="Введите Ваше сообщение"></textarea>
+                            <textarea id="sc_contact_form_message" name="message" placeholder="Ваш вопрос"></textarea>
                         </div>
                         <div class="sc_contact_form_item sc_contact_form_button">
                             <button title="Отправить">Отправить</button>

@@ -842,7 +842,8 @@ label.required:after {
 	margin:0 auto;
 }
 .body_style_boxed .page_wrap {
-	width:1250px;
+	/*width:1250px;*/
+	width:100%;
 }
 .slider_boxed,
 .content_wrap,
@@ -5834,7 +5835,7 @@ ul.sc_list_style_iconed {
     color: #ffffff;
     background-color: rgba(30, 75, 210, 0.901961);
     margin: 0;
-    padding: 0 3.15em 0.68em 1.0em;
+    padding: 0 .5em 1.68em 1.0em;
 }
 .flexslider .slides > li .slide_content{
     display: block;
@@ -11432,6 +11433,65 @@ select {
 }
 .custom_1433238528938 {
     padding-top: 5em !important;
+}
+
+
+.ul-list {
+	list-style: none;
+}
+
+.ul-list li:before {
+	content:  "—";
+	position: relative;
+	left:     -5px;
+}
+
+.sertificat-wrapper {
+	display: flex;
+	width: 100%;
+	max-width: 100%;
+	justify-content: space-between;
+}
+
+.sertificat-block {
+	max-width: 24%;
+}
+
+.clients-wrapper {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.clients-img-block {
+	max-width: 23%;
+}
+
+.director-wrapper {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.director-card {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	max-width: 40%;
+	align-items: center;
+}
+
+.director-img {
+	max-width: 44%;
+}
+
+.director-name {
+	font-size: 20px;
+}
+
+.link_color-contact {
+	color: #2f58d5;
 }
 
 @media screen and (max-width: 576px) {
