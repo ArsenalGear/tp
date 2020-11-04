@@ -20,7 +20,7 @@
 										<table style="height: 182px;" width="290">
 											<tbody>
 											<tr>
-												<th width="10%">#</th>
+												<th width="10%">№ <br> п/п</th>
 												<th>Наименование объекта</th>
 												<th>Вид работ (услуг)</th>
 												<th>Наименование заказчика</th>

@@ -203,36 +203,6 @@
 					<div class="sc_section_content">
 						<div class="sc_content content_wrap"
 						     style="margin-top:6.5em !important;margin-bottom:5em !important;">
-							<h2 class="sc_title sc_title_regular sc_align_center " style="text-align:center;">Руководство</h2>
-							<div class="footer_contact_title_line"></div>
-							<div class="wpb_text_column wpb_content_element ">
-								<div class="wpb_wrapper">
-									<div class="director-wrapper">
-										<div class="director-card">
-											<br>
-											<h3>Генеральный директор:</h3>
-											<p class="director-name">Куропаткин Борис Борисович</p>
-										</div>
-										<div class="director-card">
-											<br>
-											<h3>Директор:</h3>
-											<p class="director-name">Барило Алексей Иванович</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<section class="post_content" itemprop="articleBody">
-			<div class="sc_section bg_tint_none" data-animation="animated fadeInUp normal">
-				<div class="sc_section_overlay" style="">
-					<div class="sc_section_content">
-						<div class="sc_content content_wrap"
-						     style="margin-top:6.5em !important;margin-bottom:5em !important;">
 							<h2 class="sc_title sc_title_regular sc_align_center " style="text-align:center;">Контакты</h2>
 							<div class="footer_contact_title_line"></div>
 							<div class="wpb_text_column wpb_content_element ">
@@ -292,6 +262,36 @@
 													</div>
 												</div>
 											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section  class="post_content" itemprop="articleBody">
+			<div class="sc_section bg_tint_none" data-animation="animated fadeInUp normal">
+				<div class="sc_section_overlay" style="">
+					<div class="sc_section_content">
+						<div class="sc_content content_wrap"
+						     style="margin-top:6.5em !important;margin-bottom:5em !important;">
+							<h2 class="sc_title sc_title_regular sc_align_center " style="text-align:center;">Руководство</h2>
+							<div class="footer_contact_title_line"></div>
+							<div class="wpb_text_column wpb_content_element ">
+								<div class="wpb_wrapper">
+									<div class="director-wrapper">
+										<div class="director-card">
+											<br>
+											<h3>Генеральный директор:</h3>
+											<p class="director-name">Куропаткин Борис Борисович</p>
+										</div>
+										<div class="director-card">
+											<br>
+											<h3>Директор:</h3>
+											<p class="director-name">Барило Алексей Иванович</p>
 										</div>
 									</div>
 								</div>
